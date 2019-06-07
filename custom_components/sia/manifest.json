@@ -1,0 +1,8 @@
+{
+    "domain": "gekasilos",
+    "name": "Karpenko Yevheniy",
+    "documentation": "https://github.com/gekasilos/sia-ha/blob/master/README.md",
+    "dependencies": [],
+    "codeowners": ["@Cheaterdev"],
+    "requirements": []
+}
