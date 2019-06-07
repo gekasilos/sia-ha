@@ -1,0 +1,17 @@
+author:
+  email: cheater@gmail.com
+  homepage: https://github.com/Cheaterdev
+  name: SIA
+description: 🎧 gPodder component
+files:
+- custom_components/sia/__init__.py
+- custom_components/sia/binary_sensor.py
+keywords:
+- homeassistant
+- home-assistant
+- custom-component
+- python
+- sia
+license: MIT License
+name: sia
+type: component
