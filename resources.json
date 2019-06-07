@@ -1,5 +1,5 @@
 [
-	"https://raw.githubusercontent.com/gekasilos/sia-ha/master/sia/__init__.py",
-	"https://raw.githubusercontent.com/gekasilos/sia-ha/master/sia/binary_sensor.py"
+	"https://raw.githubusercontent.com/gekasilos/sia-ha/master/custom_components/sia/__init__.py",
+	"https://raw.githubusercontent.com/gekasilos/sia-ha/master/custom_components/sia/binary_sensor.py"
 	
 ]
